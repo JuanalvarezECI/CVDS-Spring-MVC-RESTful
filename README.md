@@ -59,6 +59,14 @@
 - **@PathVariable** : Esta anotación se utiliza para mapear variables de la URL a parámetros de métodos en controladores
 
 #### PARTE 3
+**¿Qué es RESTful?**
+
+- es un estilo arquitectónico utilizado en el diseño de aplicaciones web y servicios web que se basa en una serie de principios y restricciones. Estos principios están destinados a crear servicios web que sean escalables, fáciles de mantener, y que aprovechen las características del protocolo HTTP
+#### PARTE 4
 **¿Qué pasa si abro el sitio de juegos en dos navegadores difententes?**
 
+- Al abrir el juego en 2 navegadores en el mismo computador cada uno se comportará como un juego independiente con un numero a adivinar diferente, hasta que el jugador decida reiniciar el juego , cuando se reinicia el juego en cualquiera de los navegadores este reiniciará el de ambos
+
 **Si quisiera qué a cada jugador le aparecieran independientemente sus respectivos saldos. ¿Qué habría que hacer?**
+
+- Ya lo hace , la unica imposibilidad es el echo de querer reiniciar el juego solo en uno de los navegadores.
