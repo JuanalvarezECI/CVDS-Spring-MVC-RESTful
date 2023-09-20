@@ -1,4 +1,4 @@
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org" lang="">
 <head>
     <title>User page</title>
     <link th:href="@{/css/style.css}" rel="stylesheet" />
@@ -13,7 +13,7 @@
 
     <div class="row">
         <div class="left">Id: </div>
-        <div class="left" th:text="${user.Id}"></div>
+        <div class="left" th:text="${user.id}"></div>
     </div>
 
     <div class="row">
@@ -22,8 +22,8 @@
     </div>
 
     <div class="row">
-        <div class="left">complete: </div>
-        <div class="left" th:text="${user.complete}"></div>
+        <div class="left">completed: </div>
+        <div class="left" th:text="${user.completed}"></div>
     </div>
 </div>
 </body>

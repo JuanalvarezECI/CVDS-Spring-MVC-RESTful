@@ -1,9 +1,9 @@
 package com.example.servingwebcontent;
 public class User {
-    private Integer userId;
-    private Integer id;
-    private String title;
-    private Boolean completed;
+    public Integer userId;
+    public Integer id;
+    public String title;
+    public Boolean completed;
 
     public Integer getuserId() {
         return userId;
