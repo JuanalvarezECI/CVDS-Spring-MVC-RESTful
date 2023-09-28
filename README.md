@@ -70,3 +70,5 @@
 **Si quisiera qué a cada jugador le aparecieran independientemente sus respectivos saldos. ¿Qué habría que hacer?**
 
 - Ya lo hace , la unica imposibilidad es el echo de querer reiniciar el juego solo en uno de los navegadores.
+### Diagrama clases
+![MDD](../Diagrama/DiagramaClases.png)\
