@@ -71,4 +71,4 @@
 
 - Ya lo hace , la unica imposibilidad es el echo de querer reiniciar el juego solo en uno de los navegadores.
 ### Diagrama clases
-![MDD](../Diagrama/DiagramaClases.png)\
+![MDD-Diagrama de clases](../Diagrama/DiagramaClases.png)\
